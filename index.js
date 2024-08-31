@@ -6,4 +6,4 @@ const forth = numbers[2];
 console.log(forth);
 
 numbers[2] =569;
-console.log(numbers)
+console.log(numbers) 
