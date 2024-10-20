@@ -1,0 +1,16 @@
+datatypes in js
+1.Primitive
+2.Non promitive
+
+1.primitive 5proker
+*String
+*Number
+*Boolen
+*Null
+*Undefined
+
+
+2.Non promitive
+*Object
+*Array
+*Function
